@@ -1,0 +1,3 @@
+# Force LF line endings for JSON and Jupyter Notebooks
+*.json eol=lf
+*.ipynb eol=lf
