@@ -1,0 +1,11 @@
+uvicorn
+joblib
+pandas
+numpy
+tensorflow
+scikit-learn
+ydf
+fastapi
+pydantic
+nltk
+cryptography
