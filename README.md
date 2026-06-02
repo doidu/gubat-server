@@ -1,6 +1,6 @@
 # Gubat Server
 
-**Gubat Server** is a high-performance, secure SMS Spam Filter API built with FastAPI. It leverages a combination of TF-IDF vectorization, sentiment analysis (VADER), and extensive handcrafted feature extraction to accurately classify SMS messages as spam or ham. The core classification model is powered by Yggdrasil Decision Forests (YDF).
+**Gubat Server** is a high-performance, secure SMS Spam Filter API built with FastAPI. It leverages a combination of TF-IDF vectorization, sentiment analysis (VADER), and extensive handcrafted feature extraction to accurately classify SMS messages as spam or ham. The core classification model is powered by Yggdrasil Decision Forests (YDF). To be used with Gubat Messages.
 
 ## 🌟 Features
 
